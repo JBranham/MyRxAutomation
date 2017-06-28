@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<repository
+name="MyRxAutomationRepository"
+id="dc36aec6-dfbe-40f2-8cbc-2d0fe086914f"
+rxversion="7.0">
+  <codegen
+  classname="MyRxAutomationRepository"
+  namespace="MyRxAutomation"/>
+  <rootfolder
+  name="Root"
+  id="6b9ed2c6-a33f-4001-9581-090832cc21af"
+  searchtimeout="30000ms"
+  capname="unknown"
+  isrooted="True"
+  usecache="True">
+    <basepath/>
+  </rootfolder>
+  <variables/>
+</repository>

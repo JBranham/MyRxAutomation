@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modulegroupdoc
+rxversion="7.0">
+  <testsuiteentryhierarchy>
+    <flatlistofchildren>
+      <modulegroups
+      name="MyRxAutomation"
+      id="39d7b57e-09fb-4f16-a0b3-1f92667dc6e4"/>
+    </flatlistofchildren>
+    <childhierarchy>
+      <modulegroups
+      name="MyRxAutomation"
+      id="39d7b57e-09fb-4f16-a0b3-1f92667dc6e4"/>
+    </childhierarchy>
+  </testsuiteentryhierarchy>
+</modulegroupdoc>
