@@ -41,6 +41,18 @@ rxversion="7.0">
 			<bindings>
 			</bindings>
 		</loggingrecorditem>
+		<loggingrecorditem
+		category="User"
+		enabled="True"
+		message="Automation Done!"
+		optional="False"
+		reportlevel="Info;20"
+		searchpropertyid="8e8fd4b9-a31c-4834-9ab8-40e730399ec9">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+		</loggingrecorditem>
 	</recorditems>
 	<repository
 	id="dc36aec6-dfbe-40f2-8cbc-2d0fe086914f"
