@@ -29,6 +29,18 @@ rxversion="7.0">
 	<variables>
 	</variables>
 	<recorditems>
+		<loggingrecorditem
+		category="User"
+		enabled="True"
+		message="Run Automation"
+		optional="False"
+		reportlevel="Info;20"
+		searchpropertyid="02184a5a-7a02-4275-b902-89b2ee3d719f">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+		</loggingrecorditem>
 	</recorditems>
 	<repository
 	id="dc36aec6-dfbe-40f2-8cbc-2d0fe086914f"

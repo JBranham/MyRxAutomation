@@ -96,6 +96,28 @@
     <None Include="app.config">
       <id>d88042fb-bc6a-481e-a70d-7b6257031a28</id>
     </None>
+    <None Include="bin\Debug\MyRxAutomation%40Nexus 7.lnk">
+      <id>11f66cea-790b-4361-b895-8fd3c97e9f25</id>
+    </None>
+    <None Include="bin\Debug\MyRxAutomation%40RxWebGrid.lnk">
+      <id>7d31fd2a-9735-4f14-97f5-b91e410ee110</id>
+    </None>
+    <None Include="bin\Debug\MyRxAutomation.exe">
+      <id>6732fc71-74e9-476a-b1bd-4fbdaddd3207</id>
+    </None>
+    <None Include="bin\Debug\MyRxAutomation.exe.config">
+      <id>deefd321-e031-47b1-b956-99bdf023f540</id>
+    </None>
+    <None Include="bin\Debug\MyRxAutomation.pdb">
+      <id>5ecb13ae-8603-47b0-a20f-fb870ffd3b08</id>
+    </None>
+    <None Include="bin\Debug\MyRxAutomation.rxtst">
+      <id>8ef7076e-901e-4854-8177-a95fef2c879b</id>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="bin\Debug\Ranorex.rxsettings">
+      <id>6db7e01f-64bf-4cdd-a51a-ceea19c6dd7d</id>
+    </None>
     <None Include="MyRxAutomationRepository.rximg">
       <BoundTo>1ba0025b-4212-431a-b637-9905a22748c5</BoundTo>
       <DependentUpon>MyRxAutomationRepository.rxrep</DependentUpon>
@@ -122,6 +144,14 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <id>a6942133-0b5e-4aee-b335-be97462cb599</id>
     </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="bin">
+      <id>b7485b91-c7ef-4618-9289-d68c313f9d49</id>
+    </Folder>
+    <Folder Include="bin\Debug">
+      <id>6ce43ee2-ff3e-4378-9226-7da5660f496c</id>
+    </Folder>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Import Project="$(RanorexTargetsPath)" Condition="Exists('$(RanorexTargetsPath)')" />

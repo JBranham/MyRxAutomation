@@ -79,6 +79,8 @@ namespace MyRxAutomation
 
             Init();
 
+            Report.Log(ReportLevel.Info, "User", "Run Automation", new RecordItemIndex(0));
+            
         }
 
 #region Image Feature Data
