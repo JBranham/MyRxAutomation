@@ -9,11 +9,10 @@ rxversion="7.0">
 			TracingScreenshotQuality="40"
 			enabletracingscreenshots="True"
 			id="6ea74941-c0e0-4f53-9116-39ff01addac4"
-			junitreport="True"
 			name="MyRxAutomation"
 			placescreenshotsinfolder="True"
 			reportcompress="False"
-			reportfilename="%S_%Y%M%D_%T.rxlog"
+			reportfilename="%S_%Y%M%D_%T.html"
 			reporttemplatefolder=""
 			reportwriteinterval="30000ms">
 			</testsuite>
